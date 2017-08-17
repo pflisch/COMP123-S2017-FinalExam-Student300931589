@@ -10,9 +10,19 @@ using System.Windows.Forms;
 
 namespace COMP123_S2017_FinalExam_StudentID
 {
-    public partial class SplashForm : Form
+    public partial class Form1 : Form
     {
-        public SplashForm()
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
         {
             InitializeComponent();
         }

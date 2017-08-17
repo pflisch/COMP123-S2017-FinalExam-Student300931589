@@ -1,6 +1,6 @@
-﻿namespace COMP123_S2017_FinalExam_StudentID
+﻿namespace WindowsFormsApplication2
 {
-    partial class SplashForm
+    partial class Form1
     {
         /// <summary>
         /// Required designer variable.
@@ -30,9 +30,10 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "SplashScreen";
+            this.Text = "Form1";
         }
 
         #endregion
     }
 }
+
